@@ -1,0 +1,1 @@
+This project is about building a model to find which player to remove fro the existimg team of the Fantasy Premier League taking all the constraints and the total points the player has . For this we take data of the players for 10 consecutive weeks and perfom the following tasks using machine learning algorithms to get a model and the accuracy.
